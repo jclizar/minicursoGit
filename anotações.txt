@@ -4,3 +4,4 @@ Configura o nome e o email, para salvar o metadado com o nome e o email da pesso
 tudo está sendo feito localmente
 git init cria uma pasta oculta no minicurso.
 
+toda vez que faz um commit ele cria um hash
