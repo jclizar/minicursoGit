@@ -1,0 +1,5 @@
+https://tinyurl.com/materiais-adicionais
+
+Configura o nome e o email, para salvar o metadado com o nome e o email da pessoa que fez a configuração.
+tudo está sendo feito localmente
+git init cria uma pasta oculta no minicurso
