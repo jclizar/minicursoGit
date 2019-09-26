@@ -5,3 +5,9 @@ tudo está sendo feito localmente
 git init cria uma pasta oculta no minicurso.
 
 toda vez que faz um commit ele cria um hash
+git log --abbrev-commit --pretty=oneline (mostra a versão reduzida do hash)
+git checkout (digita a vs reduzida do hash)
+
+git switch (volta pra última versão)
+
+BRANCHES são melhores para voltar no tempo (versoes)
